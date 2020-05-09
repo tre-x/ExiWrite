@@ -17,4 +17,4 @@ None other than the executable itself.
 An installation version is in the works.
 
 ## Installation
-See releases page.
+See releases page (https://github.com/tre-x/ExiWrite/releases)
